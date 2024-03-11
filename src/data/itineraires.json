@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "departure": "Aéroport de Barcelone",
+    "arrival": "Aéroport de Gérone",
+    "transport": "Bus",
+    "seat": "N/A"
+  },
+
+  {
+    "id": 4,
+    "departure": "Stockholm",
+    "arrival": "New York JFK",
+    "transport": "Vol SK22",
+    "seat": "7B",
+    "baggage": "Transférés automatiquement"
+  },
+  {
+    "id": 3,
+    "departure": "Aéroport de Gérone",
+    "arrival": "Stockholm",
+    "transport": "Vol SK455",
+    "seat": "3A",
+    "baggage": "Guichet 344"
+  },
+  {
+    "id": 2,
+    "departure": "Madrid",
+    "arrival": "Barcelone",
+    "transport": "Train 78A",
+    "seat": "45B"
+  }
+]
